@@ -367,7 +367,8 @@ header .logo-block{
 }
 
 .subscribe-bottom form .form-control{
-	width: 28rem;
+	max-width: 28rem;
+	padding: 1.2rem;
 }
 
 .subscribe-bottom form input::placeholder{
